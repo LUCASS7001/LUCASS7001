@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=cyber&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+</p>
+
 # Hi there, I'm LUCAS a Discord Bot Developer <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 - 🌱 **I am experienced in `Discord.JS` and I am currently learning `HTML` and** `CSS`
