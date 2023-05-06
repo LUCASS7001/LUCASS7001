@@ -11,6 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Lucass)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YP6PVeRSQw)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L25ZK)
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
