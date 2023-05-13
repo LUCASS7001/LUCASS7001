@@ -12,17 +12,15 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Lucass)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YP6PVeRSQw)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L25ZK)
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat"
-    alt="isaaclal" />
-   <img src="https://img.shields.io/badge/language-JavaScript-white?style"/>
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
-
+<img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat" alt="isaaclal" />
+<img src="https://img.shields.io/badge/language-JavaScript-white?style"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></p>
 
 </p>
 <a href="https://instagram.com/K_77.0" target="_blank">
-<img src="https://img.shields.io/badge/instagram:K_77.0-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram: K_77.0-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </p>
 
 </p>
@@ -31,9 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LUCASS7001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCASS7001&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="LUCASS7001"/>
 </p>
-
----
-
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -68,3 +63,5 @@
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
