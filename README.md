@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=cyber&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
-# Hi there, I'm LUCAS a Discord Bot Developer <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hi there, I'm LUCAS a Discord Bot Developer</b>
 
 - 🌱 **I am experienced in `Discord.JS` and I am currently learning `HTML` and** `CSS`
-- 🏆 **2022 Goals: Contribute to more open source projects and upgrading my** [discord bot soon!](https://github.com/1Lucass/1Lucass/edit/main/README.md)
+- 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [discord bot](https://discord.com/api/oauth2/authorize?client_id=1099720840821620737&permissions=2150747224&scope=bot%20applications.commands)
 - 📫 `What is the best way to contact me?` [Discord](https://discord.com/users/577600234734092288)
 - 😄 Pronouns: **`He/Him`**
 
