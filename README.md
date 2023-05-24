@@ -23,12 +23,8 @@
 <img src="https://img.shields.io/badge/instagram: K_77.0-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </p>
 
-</p>
-<a href="https://github.com/LUCASS7001
-/">
-  <img src="https://github-readme-stats.vercel.app/api?username=LUCASS7001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCASS7001&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="LUCASS7001"/>
-</p>
+![LUCASS7001 GitHub stats](https://github-readme-stats.vercel.app/api?username=LUCASS7001&show_icons=true&theme=transparent)
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -64,3 +60,4 @@
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/577600234734092288.png">
+
