@@ -9,6 +9,10 @@
 - 📫 `What is the best way to contact me?` [Discord](https://discord.com/users/577600234734092288)
 - 😄 Pronouns: **`He/Him`**
 
+---
+
+<img align="left" width="500" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/577600234734092288.png">
+
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Lucass)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YP6PVeRSQw)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L25ZK)
@@ -27,12 +31,6 @@
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31vunv6cbyrto7su3xkgoqxykgq4?si=uv9ncQq6T7yM7ypu2KVEfQ&utm_source=copy-link)
-
----
 
 
 ```text
@@ -58,6 +56,4 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img align="left" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/577600234734092288.png">
 
