@@ -5,7 +5,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hi there, I'm LUCAS a Discord Bot Developer</b>
 
 - 🌱 **I am experienced in `Discord.JS` and I am currently learning `HTML` and** `CSS`
-- 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [discord bot](https://discord.com/api/oauth2/authorize?client_id=1099720840821620737&permissions=2150747224&scope=bot%20applications.commands)
+- 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [discord bot](https://discord.com/api/oauth2/authorize?client_id=1109076213596692603&permissions=274877996040&scope=applications.commands%20bot)
 - 📫 `What is the best way to contact me?` [Discord](https://discord.com/users/577600234734092288)
 - 😄 Pronouns: **`He/Him`**
 
