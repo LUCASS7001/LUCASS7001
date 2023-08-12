@@ -5,13 +5,35 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hi there, I'm LUCAS a Discord Bot Developer</b>
 
 - 🌱 **I am experienced in `Discord.JS` and I am currently learning `HTML` and** `CSS`
-- 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [discord bot](https://discord.com/api/oauth2/authorize?client_id=1109076213596692603&permissions=274877996040&scope=applications.commands%20bot)
+- 🏆 **2023 Goals: Contribute to more open source projects and upgrading my** [discord bot](https://discord.com/api/oauth2/authorize?client_id=1109076213596692603&permissions=274877996040&scope=bot%20applications.commands)
 - 📫 `What is the best way to contact me?` [Discord](https://discord.com/users/577600234734092288)
 - 😄 Pronouns: **`He/Him`**
 
----
+----
 
 <img align="left" width="500" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/577600234734092288.png">
+
+----
+
+----
+
+----
+
+----
+
+---- 
+
+<img align="left" width="500" style="margin: 0 10px 0 0;" alt="Bot Widget" src="https://discord.c99.nl/widget/theme-3/1109076213596692603.png">
+
+----
+
+----
+
+----
+
+----
+
+---- 
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Lucass)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YP6PVeRSQw)
